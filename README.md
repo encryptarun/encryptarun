@@ -75,6 +75,6 @@ I mostly work around reverse engineering, cybersecurity, and protection research
 
 ## Connect
 
-<a href="https://github.com/encryptarun"><img src="https://img.shields.io/badge/GitHub-tarun--re-F38020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/encryptarun"><img src="https://img.shields.io/badge/GitHub-encryptarun-F38020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://github.com/encryptarun?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20Work-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 <a href="https://github.com/encryptarun"><img src="https://img.shields.io/badge/Joined-April%202026-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Joined April 2026"></a>
