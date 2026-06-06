@@ -43,18 +43,23 @@ I mostly work around reverse engineering, cybersecurity, and protection research
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+    <img width="49%" src="./profile/stats-dark.svg" alt="GitHub Stats" />
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg" />
     <img width="49%" src="./profile/streak-dark.svg" alt="GitHub Streak" />
   </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
-    <img width="38%" src="./profile/top-langs-dark.svg" alt="Top Languages" />
-  </picture>
+  </p>
+  
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
+      <img width="38%" src="./profile/top-langs-dark.svg" alt="Top Languages" />
+    </picture>
 </p>
 
 ## Stargazers
