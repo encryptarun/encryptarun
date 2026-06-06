@@ -43,14 +43,9 @@ I mostly work around reverse engineering, cybersecurity, and protection research
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
-    <img width="49%" src="./profile/stats-dark.svg" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=encryptarun&theme=github-dark-blue&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=encryptarun&theme=default&hide_border=true&background=00000000&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&dates=656D76" />
-    <img width="49%" src="https://streak-stats.demolab.com/?user=encryptarun&theme=github-dark-blue&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg" />
+    <img width="49%" src="./profile/streak-dark.svg" alt="GitHub Streak" />
   </picture>
 </p>
 
