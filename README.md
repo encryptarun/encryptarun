@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Pentesting-B71C1C?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Pentesting">
   <img src="https://img.shields.io/badge/API%20Research-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="API Research">
   <img src="https://img.shields.io/badge/Proxy%20Tooling-0E7490?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Proxy Tooling">
-  <img src="https://komarev.com/ghpvc/?username=encryptarun&style=for-the-badge&color=1f6feb&label=Profile%20Views" alt="Profile Views">
 </p>
 
 ## About
